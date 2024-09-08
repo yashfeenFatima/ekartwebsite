@@ -1,5 +1,9 @@
 Steps to run the project:
 
+- Make a .env file in the server folder
+- Copy the keys from the `.env.example` file to the `.env` file
+- Fill the required values to run the project seemlessly
+
 1. Install Dependecies:
 
 ```
